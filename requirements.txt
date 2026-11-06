@@ -1,0 +1,9 @@
+numpy
+scipy
+matplotlib
+ratinabox
+pandas 
+dill
+tomplotlib
+nbformat
+nbclient
